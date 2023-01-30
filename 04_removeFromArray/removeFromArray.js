@@ -1,5 +1,5 @@
 /**
- * Removes the specified numbers from array.
+ * Removes the specified items from array.
  * @param {Array} array 
  * @param {...*} items
  * @returns {Array} new array.
